@@ -1,0 +1,7 @@
+# Get switch.
+
+int32 enable
+
+---
+bool success
+string message
